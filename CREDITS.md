@@ -19,7 +19,7 @@ Source: https://incompetech.com/music/royalty-free/
 | File | Title | Artists |
 |------|-------|---------|
 | hanh-trinh-cua-la.mp3 | "Hành Trình Của Lá" | PiaLinh, Lâm Bảo Ngọc, Minh Cà Ri |
+| chau-thuong-chu-bo-doi.mp3 | "Cháu Thương Chú Bộ Đội" | Nhạc thiếu nhi Việt Nam |
 
-> ⚠️ This is a commercial Animation MV, **not royalty-free**. Copyright belongs to the
-> respective rights holders. Added for a small educational/demo use — review the licensing
-> before distributing publicly.
+> ⚠️ These are **not royalty-free** — copyright belongs to the respective rights holders.
+> Added for a small educational/demo use; review the licensing before distributing publicly.
